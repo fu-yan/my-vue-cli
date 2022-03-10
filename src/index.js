@@ -1,0 +1,1 @@
+console.log('尝试webpack搭建项目脚手架')
